@@ -1,0 +1,23 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "test project from ReactJS course",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/webpyton/test.git"
+  },
+  "keywords": [
+    "test",
+    "ReactJS"
+  ],
+  "author": "webpython",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/webpyton/test/issues"
+  },
+  "homepage": "https://github.com/webpyton/test#readme"
+}
